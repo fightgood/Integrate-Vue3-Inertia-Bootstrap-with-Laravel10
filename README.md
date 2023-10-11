@@ -415,7 +415,7 @@ Edit file `vite.config.js` in root project like this:
         }
     });
     
-### 8.7 Edit - vite.config.js    
+### 8.7 Edit - bootstrap.js    
 
 Edit file `resources\js\bootstrap.js` like this:
 
